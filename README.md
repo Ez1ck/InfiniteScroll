@@ -5,4 +5,4 @@ A basic web app, mimicking the infinite scrolling characteristic.
 - A slight effort into responsivity for smaller devices using CSS media query.
 
 ## See it in Action!
-<link>
+<https://ez1ck.github.io/InfiniteScroll/>
